@@ -11,8 +11,8 @@ body {
     padding: 1rem;
 }
 #logo, button {
-    background: linear-gradient(#465, #354 40%, #132 80%, #132);
-    color: #f9f4f0;
+    background: white;
+    color: linear-gradient(#465, #354 40%, #132 80%, #132);
 }
 #logo {
     text-transform: uppercase;
@@ -26,6 +26,7 @@ body {
     height: auto;
     position: relative;
     top: 4px;
+
 }
 .nav-flex {
     display: flex;
@@ -115,4 +116,8 @@ button {
 }
 .error-text {
     color: #d00;
+}
+.submit {
+    background: linear-gradient(#465, #354 40%, #132 80%, #132);
+    color: white;
 }
