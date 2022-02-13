@@ -11,8 +11,8 @@ body {
     padding: 1rem;
 }
 #logo, button {
-    background: white;
-    color: linear-gradient(#465, #354 40%, #132 80%, #132);
+    background: linear-gradient(#465, #354 40%, #132 80%, #132);
+    color: white;
 }
 #logo {
     text-transform: uppercase;
